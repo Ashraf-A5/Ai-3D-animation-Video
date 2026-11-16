@@ -1,0 +1,6 @@
+
+gradio
+Pillow
+requests
+imageio
+imageio-ffmpeg
